@@ -9,8 +9,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" height="300" />
 
 - :woman_technologist: I am a budding Software Engineer with a background in Automation. 
-- 🔭 I’m working as an Demo Engineer at Salesforce ☁️
-- 🌱 Currently, I’m learning more about JavaScript, Node.js, APIs, mySQL, and React.
+- 🔭 Currently, I’m working as an Demo Engineer at Salesforce ☁️
+- 🌱 I’m learning more about JavaScript, Node.js, APIs, mySQL, and React.
 - 👯 I’m looking to collaborate on small projects!
 - 💬 Ask me about anything tech related or reach out just to say hi! 
 - 📫 How to reach me: MehmudNeeda@gmail.com
